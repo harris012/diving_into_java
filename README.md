@@ -13,4 +13,4 @@ The purpose of this repo is to start practicing JAVA. In my opinion we can start
 
 ### IDEA
 
-- 
+- IntelliJ Ide from Jetbrains is very popular download it [here](https://www.jetbrains.com/idea/download/#section=mac).
