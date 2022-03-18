@@ -8,8 +8,10 @@ The purpose of this repo is to start practicing JAVA. In my opinion we can start
 - [ ] Make an example with the chosen design pattern and create a pull request.
 
 
+### Contribute instructions
 
-
+To contribute in this project please create a separate branch with any name (develop or nay name of your liking).
+Do not push the code directly to master/main. The code needs to be approved and checked before merging into main.
 
 ### IDEA
 
