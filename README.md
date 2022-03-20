@@ -2,6 +2,9 @@
 
 The purpose of this repo is to start practicing JAVA. In my opinion we can start with Java by learning some or at least one of its design patterns. So I want to start with it.
 
+##First Mini Program
+- Preferably run it through Terminal/CMD
+
 ### TODO
 
 - [ ] Choose any one of the Java design pattern.
