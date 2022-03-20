@@ -10,8 +10,8 @@ The purpose of this repo is to start practicing JAVA. In my opinion we can start
 
 ### Contribute instructions
 
-To contribute in this project please create a separate branch with any name (develop or nay name of your liking).
-Do not push the code directly to master. The code needs to be approved and checked before merging into main.
+To contribute in this project please create a separate branch with any name (develop or any name of your liking).
+Do not push the code directly to master. The code needs to be approved and checked before merging into master.
 
 ### IDEA
 
